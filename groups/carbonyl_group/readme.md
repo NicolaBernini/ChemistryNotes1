@@ -21,6 +21,12 @@ Properties
     - The `C` has some local excess of positive charge hence it is electrophile (i.e. attracts electrons)
     - The `O` has some local excess of negative charge hence it is nucleophile (i.e. attracts nucleus) 
 
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Carbonylgruppe.svg"/>
+  <figcaption>Fig2. - Cabronyl Group and charge polarization. This charge imbalance is responsible for the group reactivity.</figcaption>
+</figure>
+
+
 # Reactions 
 
 ## Nucleophilic Addition 
@@ -41,6 +47,6 @@ Algo
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/NucleophilicAdditionsToCarbonyls.svg"/>
-  <figcaption>Fig2 - Nucleophilic Addition. A negative charged nucleus is trapped by `C` which changes its hybridation</figcaption>
+  <figcaption>Fig3 - Nucleophilic Addition. A negative charged nucleus is trapped by `C` which changes its hybridation</figcaption>
 </figure>
 
