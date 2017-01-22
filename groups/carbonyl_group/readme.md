@@ -22,7 +22,7 @@ Properties
     - The `O` has some local excess of negative charge hence it is nucleophile (i.e. attracts nucleus) 
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Carbonylgruppe.svg"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Carbonylgruppe.svg" width="100px"/>
   <figcaption>Fig2. - Cabronyl Group and charge polarization. This charge imbalance is responsible for the group reactivity.</figcaption>
 </figure>
 
