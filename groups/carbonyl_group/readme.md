@@ -9,9 +9,13 @@ The Carbonyl Group is characterized by a `C` with double bond to `O` and 2 radic
 
 
 Properties 
-- Electronegativity (Data)
-  - The `C` = 2.5 
-  - The `O` = 3.5 
+- General Properties 
+  - Electronegativity (Data)
+    - The `C` = 2.5 
+    - The `O` = 3.5 
+- Specific Properties 
+  - Hybridation 
+    - The `C` is `sp2` hybridated 
 - Comments 
   - The `O` attracts most of the electrons hence 
     - The `C` has some local excess of positive charge hence it is electrophile (i.e. attracts electrons)
@@ -23,4 +27,20 @@ Properties
 
 Algo 
 - Start
-  - The `C` is nucleophilic due to local positive charge imbalance 
+  - The `C` is electrophilic due to local positive charge imbalance 
+- Nucleaus Addition 
+  - Attraction 
+    - A negative charged nucleus is attracted by the `C` 
+  - Hybridation switch 
+    - The `C` changes from `sp2` to `sp3` hybridation hence breaking the `O` double bond 
+    - The `O` is then left with a non shared electron 
+- Oxygen fixing 
+  - The `O` attracts a free `H+` to share its electron 
+    - **Note** This reason is then favoured in Acid Environment 
+
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/NucleophilicAdditionsToCarbonyls.svg"/>
+  <figcaption>Fig2 - Nucleophilic Addition. A negative charged nucleus is trapped by `C` which changes its hybridation</figcaption>
+</figure>
+
